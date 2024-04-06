@@ -1,13 +1,13 @@
 [
   {
-    "name": "Geometry Dash",
-    "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
-    "author": "RobTop",
-    "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
+    "name": "NC GDPS",
+    "link": "https://discord.gg/noxicloud-1090322023009505390",
+    "author": "gdnoxi",
+    "authorLink": "https://youtube.com/@noxi343?si=wKdLYVTLT6LRTZzz",
     "id": "",
-    "endpoint": "http://www.boomlings.com/database/",
+    "endpoint": "http://ncgdps.ncservers.xyz",
     "timestampSuffix": " ago",
-    "demonList": "https://pointercrate.com/",
+    "demonList": "",
     "downloadsDisabled": true,
     "pinned": true
   },
